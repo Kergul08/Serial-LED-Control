@@ -29,4 +29,4 @@ The user types a color (`red`,`green` or `yellow`) and the amount of blicks into
 
 ---
 ## Skills
-`Arduino C++` `Serial Communication` `Embedded Systems`
+`Arduino` `C++` `Serial Communication` `Embedded Systems`
